@@ -1,0 +1,24 @@
+[2025-07-23T17:36:49.077Z] info: kubernetes.yaml was copied to the config folder
+[2025-07-23T17:38:25.901Z] error: Host validation failed for: localhost:3012. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-07-23T17:38:26.189Z] error: Host validation failed for: localhost:3012. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-07-23T17:38:26.200Z] error: Host validation failed for: localhost:3012. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-07-23T17:38:26.207Z] error: Host validation failed for: localhost:3012. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-07-23T17:38:26.218Z] error: Host validation failed for: localhost:3012. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-07-23T17:38:26.244Z] error: Host validation failed for: localhost:3012. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-07-23T17:38:26.293Z] error: Host validation failed for: localhost:3012. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-07-23T17:38:26.302Z] error: Host validation failed for: localhost:3012. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-07-23T17:38:26.307Z] error: Host validation failed for: localhost:3012. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-07-23T17:38:26.312Z] error: Host validation failed for: localhost:3012. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-07-23T17:38:26.321Z] error: Host validation failed for: localhost:3012. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-07-23T17:38:26.333Z] error: Host validation failed for: localhost:3012. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-07-23T17:38:34.669Z] error: Host validation failed for: localhost:3012. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-07-23T17:38:34.674Z] error: Host validation failed for: localhost:3012. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-07-23T17:38:41.526Z] error: Host validation failed for: localhost:3012. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-07-23T17:38:41.534Z] error: Host validation failed for: localhost:3012. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-07-23T17:38:57.057Z] info: docker.yaml was copied to the config folder
+[2025-07-23T17:38:57.067Z] info: services.yaml was copied to the config folder
+[2025-07-23T17:38:57.074Z] info: bookmarks.yaml was copied to the config folder
+[2025-07-23T17:38:57.079Z] info: widgets.yaml was copied to the config folder
+[2025-07-23T17:38:57.090Z] info: custom.css was copied to the config folder
+[2025-07-23T17:38:57.093Z] info: custom.js was copied to the config folder
+[2025-07-23T17:38:57.140Z] info: proxmox.yaml was copied to the config folder

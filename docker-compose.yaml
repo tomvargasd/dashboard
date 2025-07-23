@@ -1,0 +1,12 @@
+services:
+  homepage:
+    image: ghcr.io/gethomepage/homepage:latest
+    container_name: homepage
+    ports:
+      - 3012:3000
+    volumes:
+      - ./config:/app/config # Make sure your local config directory exists
+    environment:
+      HOMEPAGE_ALLOWED_HOSTS: gethomepage.dev,dashboard.tomvargasd.site,localhost:3012
+      PUID: $PUID
+      PGID: $PGID
