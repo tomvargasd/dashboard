@@ -2,6 +2,9 @@
 # For configuration options and examples, please see:
 # https://gethomepage.dev/configs/settings/
 
-providers:
-  openweathermap: openweathermapapikey
-  weatherapi: weatherapiapikey
+background:
+  image: https://img.uhdpaper.com/wallpaper/evangelion-mecha-494@5@e-pc-4k.jpg
+  blur: sm 
+  saturate: 50 
+  brightness: 50 
+  opacity: 50 
