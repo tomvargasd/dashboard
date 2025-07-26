@@ -5,7 +5,8 @@ services:
     ports:
       - 3012:3000
     volumes:
-      - ./config:/app/config # Make sure your local config directory exists
+      - ./config:/app/config
+      - ./images:/app/public/images
     environment:
       HOMEPAGE_ALLOWED_HOSTS: gethomepage.dev,dashboard.tomvargasd.site,localhost:3012
       PUID: $PUID
