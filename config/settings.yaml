@@ -2,9 +2,4 @@
 # For configuration options and examples, please see:
 # https://gethomepage.dev/configs/settings/
 
-background:
-  image: https://image-5.uhdpaper.com/wallpaper/evangelion-mecha-hd-wallpaper-uhdpaper.com-494@5@e.jpg
-  blur: sm 
-  saturate: 50 
-  brightness: 50 
-  opacity: 50 
+background: https://image-5.uhdpaper.com/wallpaper/evangelion-mecha-hd-wallpaper-uhdpaper.com-494@5@e.jpg
